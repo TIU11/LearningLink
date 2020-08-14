@@ -3,7 +3,7 @@
 ## Level 10 - Geek On
 (Bare Metal Installation)
 
-[Kolibri Installation Script](../10-Geek-On/kolibri.sh)
+[Kolibri Installation Script](../10-Geek-On/README.md)
 
 ## Level 05 - Rent a Geek
 (from a base Ubuntu Server installation)
