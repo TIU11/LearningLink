@@ -1,10 +1,10 @@
 # LearningLink
 
-## Geek On 
-(Bare Metal Installation) 
+## Level 10 - Geek On 
+(Bare Metal Installation)
 
-## Rent a Geek 
+## Level 05 - Rent a Geek
 (from a base Ubuntu Server installation)
 
-## Newbie
+## Level 00  - Newbie
 (do it for me - "one click installer")
