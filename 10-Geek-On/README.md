@@ -1,6 +1,7 @@
 # Geek On
 
-## Pre-reqs
+## Pre-requisites
+
 * Ubuntu Server
 * SSH enabled
 
