@@ -4,7 +4,7 @@
 (Bare Metal Installation) 
 
 ## Rent a Geek 
-(from a Ubuntu installation)
+(from a base Ubuntu Server installation)
 
 ## Newbie
-(do it for me)
+(do it for me - "one click installer")
