@@ -8,7 +8,7 @@
 
 ### Virtual Box
 * File
-*    Import Appliance
-*      Select the downloaded OVA
+*   Import Appliance
+*    Select the downloaded OVA
 
 _Any virtualization that is able to import an OVA can be used_
