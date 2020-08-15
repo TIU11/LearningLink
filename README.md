@@ -13,6 +13,8 @@
 ## Level 00 - Easy - Newbie
 (do it for me - "one click installer")
 
+[Newbie Page](./00-Newbie/README.md)
+
 ----
 
 # Basics
