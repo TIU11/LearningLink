@@ -7,4 +7,4 @@
 
 ## Installation Shell Script
 
-[Kolibri Installation Script](../10-Geek-On/kolibri.sh)
+[Kolibri Installation Script](./kolibri.sh)
