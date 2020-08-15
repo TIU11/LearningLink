@@ -1,6 +1,6 @@
 # LearningLink
 
-## Level 10 - Advance - Geek On
+## Level 10 - Advanced - Geek On
 (Bare Metal Installation)
 
 [Kolibri Installation Script](./10-Geek-On/README.md)
