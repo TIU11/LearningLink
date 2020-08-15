@@ -1,21 +1,23 @@
 # LearningLink
 
-## Level 10 - Geek On
+## Level 10 - Advance - Geek On
 (Bare Metal Installation)
 
 [Kolibri Installation Script](../10-Geek-On/README.md)
 
-## Level 05 - Rent a Geek
+## Level 05 - Intermediate - Rent a Geek
 (from a base Ubuntu Server installation)
 
-## Level 00  - Newbie
+[Set-up Guide](../05-Rent-A-Geek/README.md)
+
+## Level 00 - Easy - Newbie
 (do it for me - "one click installer")
 
 ----
+
 # Basics
 
-## Installation
-[Virtual Machine Installation](./05-Rent-A-Geek/README.md)
+## Installation Sidebar
 
 ### Ubuntu
 * update the installation

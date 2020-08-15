@@ -2,6 +2,6 @@
 
 ## Installation Shell Script
 
-[VirtualBox Settings Walk-Thru](../VBox_Settings/)
+* [VirtualBox Settings Walk-Thru](../VBox_Settings/)
 
-[Ubuntu Installation Walk-Thru](../Ubuntu_Install/)
+* [Ubuntu Installation Walk-Thru](../Ubuntu_Install/)
