@@ -1,3 +1,5 @@
 # Newbie
 
 ## Prerequisites
+
+* Virtual Box

@@ -15,7 +15,8 @@
 # Basics
 
 ## Installation
-[Documentation](http://www.google.com)
+[Virtual Machine Installation](./05-Rent-A-Geek/README.md)
+
 ### Ubuntu
 * update the installation
 
