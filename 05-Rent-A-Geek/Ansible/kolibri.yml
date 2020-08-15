@@ -1,0 +1,28 @@
+- hosts: 127.0.0.1
+  sudo: true
+  tasks:
+    - name: update a server
+      apt: update_cache=true
+    - name: upgrade a server
+      apt: upgrade=full
+
+    - name: install htop
+      apt: name=htop state=present
+
+    - name: install software-properties
+      apt: name=software-properties-common state=present
+
+    - name: load ppa
+      apt_repository:  repo='ppa:learningequality/kolibri'
+    - name: update a server
+      apt: update_cache=true
+
+    - name: install kolibri
+      apt: name=kolibri-server state=present
+
+    - name:  Restart Servers
+      shell:  reboot
+      async:  0
+      poll:  0
+    - name:  Waiting for restart
+      local_action:  wait_for host={{ ansible_ssh_host }} state=started

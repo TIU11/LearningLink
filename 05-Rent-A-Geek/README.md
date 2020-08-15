@@ -1,7 +1,13 @@
 # Rent A Geek
 
-## Installation Shell Script
+## Installation Walk-Thru
 
 * [VirtualBox Settings Walk-Thru](./VBox_Settings/)
 
 * [Ubuntu Installation Walk-Thru](./Ubuntu_Install/)
+
+## Ansilbe Set-Up
+
+* [Ansible Host](./Ansible/ansible_hosts)
+
+`export ANSIBLE_HOSTS=./ansible_hosts`
