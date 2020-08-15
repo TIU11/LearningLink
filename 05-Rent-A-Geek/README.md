@@ -11,3 +11,12 @@
 * [Ansible Host](./Ansible/ansible_hosts)
 
 `export ANSIBLE_HOSTS=./ansible_hosts`
+
+## Vagrant Installation
+
+* [Vagrant How-to](./Vagrant/README>md)
+
+### Prerequisites
+
+* VirtualBox
+* Vagrant
