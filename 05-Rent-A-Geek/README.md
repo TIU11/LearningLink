@@ -14,7 +14,7 @@
 
 ## Vagrant Installation
 
-* [Vagrant How-to](../Vagrant/README>md)
+* [Vagrant How-to](./Vagrant/README.md)
 
 ### Prerequisites
 
