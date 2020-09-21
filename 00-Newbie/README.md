@@ -12,3 +12,8 @@
 *    Select the downloaded OVA
 
 _Any virtualization that is able to import an OVA can be used_
+
+## Login
+
+* baker
+* raspberry
